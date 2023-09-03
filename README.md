@@ -4,9 +4,9 @@ Banco de dados de um Sistema de Eccomerce proposto como [desafio](https://web.di
 
 ## Conteúdo
 Diagrama:
-- [ERR](endereco)
+- [ERR](Diagramas/ecommerce_diagrama.png)
 Arquivos ___".sql"___ com as querys de:
-- [Criação e alteração](endereco);
-- [Inserção e atualização de dados](endereco);
-- [Consultas](endereco).
+- [Criação e alteração](Querys/Create_Alters.sql);
+- [Inserção e atualização de dados](Querys/Inserts.sql);
+- [Consultas](Querys/Selects.sql).
     
